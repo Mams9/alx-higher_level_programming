@@ -4,7 +4,7 @@
 /**
  * insert_node - Inserts a new node at a given position.
  * @head: head of a list.
- * @number: index of list where the new node isi added.
+ * @number: index of list where the new node is added.
  *
  * Return: the address of a new node, or NULL if it
  * failed.
