@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for i in 'abdcefghijklmnopqrstuvwxyz':
+for i in 'abcdefghijklmnopqrstuvwxyz':
     print("{}".format(i), end="")
